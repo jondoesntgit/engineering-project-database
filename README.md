@@ -1,4 +1,5 @@
 # Engineering Project Database
+# Engineering Project Database
 A tool for managing and executing multiple complex engineering projects
 
 My day job is an Engineer at a large engineering firm. At any given time, I may be supporting up to a dozen different projects. Within each project, there is a work breakdown structure (WBS) that categorizes multiple tasks that need to be done. To be compliant with customer requirements, I have to keep records of how much time (down to the tenth of an hour) I spend not only on each project, but every task within the project's WBS. Most engineers do this either by (1) keeping a big excel spreadsheet, (2) keeping logs of what they do each day on a scrap piece of paper, or (3) just guessing how much time they spent on different projects at the end of each day. In any case, this creates a fair bit of overhead.
